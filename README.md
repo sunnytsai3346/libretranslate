@@ -5,3 +5,5 @@ pip install libretranslate
 libretranslate [args]
 
 libretranslate --update-models
+
+npx update-browserslist-db@latest
