@@ -1,2 +1,7 @@
 -- Take reference 
-libretranslate 
+libretranslate  (https://github.com/sunnytsai3346/ori_LibreTranslate)
+
+pip install libretranslate
+libretranslate [args]
+
+libretranslate --update-models
